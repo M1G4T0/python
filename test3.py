@@ -1,0 +1,7 @@
+a = set()
+a.add(1)
+print(a)
+a.add(2)
+print(a)
+a.add(1)
+print(tuple(a))
